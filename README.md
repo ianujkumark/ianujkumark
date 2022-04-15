@@ -1,5 +1,8 @@
-### Hi there 👋
-
+##  About Meee <img src="https://media.giphy.com/media/fkb0aC33vSyuYAwqqQ/giphy.gif" width="80px"> 
+-  My name is **Anuj Kumar Kanojiya**
+-  I'm a student of **B.Tech Computer Engineering** 
+-  I am interested in **Software Developer** and **Web Development** 
+-  My favourite language for **DSA** and **general programming** is **C++**
 <!--
 **ianujkumark/ianujkumark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
