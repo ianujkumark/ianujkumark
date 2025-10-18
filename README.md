@@ -1,6 +1,6 @@
 ##  About Meee <img src="https://media.giphy.com/media/fkb0aC33vSyuYAwqqQ/giphy.gif" width="80px"> 
 -  My name is **Anuj Kumar Kanojiya**
--  I'm a student of **B.Tech Computer Science and Technology** 
+-  I'm have done **B.Tech Computer Science and Technology** 
 -  I am a **Software Developer** and a **Web Developer** 
 -  My favourite language for **DSA** and **general programming** is **C++**
 <!--
